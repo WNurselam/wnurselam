@@ -1,7 +1,7 @@
 Hi 👋 My name is Nurselam SAYAN
 ===============================
 
-Front-End Developer
+Jr.Front-End Developer
 ------------------
 
 I'm excited to learn new things in the Front-End space 💪
