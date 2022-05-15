@@ -8,7 +8,8 @@ I'm excited to learn new things in the Front-End space 💪
 
 * 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [nurselamsayan@gmail.com](mailto:nurselamsayan@gmail.com)
-* 🧠  I'm learning React.Js and Vue Js.
+* 🧠  I'm learning React.Js 
+
 
 ### Skills
 
