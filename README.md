@@ -4,7 +4,7 @@ Hi 👋 My name is Nurselam SAYAN
 Jr.Front-End Web Developer
 --------------------------
 
-<img align="center" width="1000" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/47361df0-7a0b-4149-92d6-dd127f25a9f8/dd3ndxp-ad830d7f-b2cd-456d-b3b1-e9a494a19193.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ3MzYxZGYwLTdhMGItNDE0OS05MmQ2LWRkMTI3ZjI1YTlmOFwvZGQzbmR4cC1hZDgzMGQ3Zi1iMmNkLTQ1NmQtYjNiMS1lOWE0OTRhMTkxOTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nflpFaOkmm1YhLyFebGENQVVTieDnRMcByU4nadMnmo">
+<img align="center" width="1000" height="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/47361df0-7a0b-4149-92d6-dd127f25a9f8/dd3ndxp-ad830d7f-b2cd-456d-b3b1-e9a494a19193.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ3MzYxZGYwLTdhMGItNDE0OS05MmQ2LWRkMTI3ZjI1YTlmOFwvZGQzbmR4cC1hZDgzMGQ3Zi1iMmNkLTQ1NmQtYjNiMS1lOWE0OTRhMTkxOTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nflpFaOkmm1YhLyFebGENQVVTieDnRMcByU4nadMnmo">
 
 I'm so excited to learn new things on the Front End 💪
 
