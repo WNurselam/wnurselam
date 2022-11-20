@@ -3,7 +3,7 @@ Hi 👋 My name is Nurselam SAYAN
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif">
 
 
-Jr.Front-End Web Developer
+Jr. Front-End Web Developer
 --------------------------
 I'm so excited to learn new things on the Front End 💪
 
@@ -19,6 +19,7 @@ I'm so excited to learn new things on the Front End 💪
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+https://icons8.com/icon/uJM6fQYqDaZK/typescript
 </p>
 
 
