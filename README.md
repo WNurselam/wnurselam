@@ -9,7 +9,7 @@ I'm so excited to learn new things on the Front End 💪
 
 * 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [nurselamsayan@gmail.com](mailto:nurselamsayan@gmail.com)
-* 🧠  I'm learning Next.Js\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_🏃
+* 🧠  I'm learning React.Js\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_🏃
 
 ## Skills
 
