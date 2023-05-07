@@ -37,8 +37,6 @@ I'm so excited to learn new things on the Front End 💪
 
 <a href="https://github.com/WNurselam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WNurselam&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/WNurselam/count.svg?"  />
-</div>
+![image title](https://rushter.com/counter.svg)
 
-###
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
